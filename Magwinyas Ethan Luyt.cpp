@@ -14,7 +14,7 @@ int main() {
     int diff = TEMP2 - TEMP1;
 
     if( diff > 50) {
-        cout << "Please reduce the fryers heat before entering the third reading" << endl;
+        cout << "Please reduce the fryers heat before entering the third reading" << endl;      
         cout <<"Resetting..." << endl;
         
     }
@@ -45,5 +45,6 @@ int main() {
     
 
 }
+
 
 
