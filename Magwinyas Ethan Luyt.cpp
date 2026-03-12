@@ -3,7 +3,7 @@
 using namespace std;    
 
 int main() {
-    int TEMP1, TEMP2, TEMP3;
+    int TEMP1, TEMP2, TEMP3;    
 
     while (true) {
     cout << "Enter the first temeprature: ";
@@ -45,4 +45,5 @@ int main() {
     
 
 }
+
 
