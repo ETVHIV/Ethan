@@ -1,6 +1,6 @@
 #include <iostream>  
 #include <limits>
-using namespace std;
+using namespace std;    
 
 int main() {
     int TEMP1, TEMP2, TEMP3;
@@ -45,3 +45,4 @@ int main() {
     
 
 }
+
